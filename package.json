@@ -1,0 +1,26 @@
+{
+  "name": "pass-keeper",
+  "version": "1.0.0",
+  "description": "pass-keeper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "example"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadKhasanweh/pass-keeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadKhasanweh/pass-keeper/issues"
+  },
+  "homepage": "https://github.com/AhmadKhasanweh/pass-keeper#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
